@@ -20,7 +20,7 @@
             android:layout_height="match_parent"
             android:layout_x="0dip"
             android:layout_y="0dip"
-            class="com.saturday9.instancetakecrop.CropImageView"
+            class="com.saturday9.cropimage.CropImageView"
             android:background="@android:color/transparent" />
     </RelativeLayout>
 
