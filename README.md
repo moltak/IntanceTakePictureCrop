@@ -21,7 +21,7 @@ Simple take a picture and crop.
 
 
 
-#####And add below code int mainlayout.xml
+#####And add below code in mainlayout.xml
 ```xml
 <RelativeLayout
     android:id="@+id/layout_surface"
